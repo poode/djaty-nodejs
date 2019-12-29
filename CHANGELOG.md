@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Djaty/djaty-nodejs/compare/v1.1.1...v1.1.2) (2019-12-29)
+
+
+### Bug Fixes
+
+* **user configuration:** global errors fails with `djatyIsTracking` opt ([8d9ccc8](https://github.com/Djaty/djaty-nodejs/commit/8d9ccc88a51a3853610d77ee3151dc7dcbbd20e9))
+
 ## [1.1.1](https://github.com/Djaty/djaty-nodejs/compare/v1.1.0...v1.1.1) (2019-12-22)
 
 
